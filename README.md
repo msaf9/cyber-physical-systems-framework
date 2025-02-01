@@ -1,4 +1,4 @@
-# Cyber-Physical System (CPS) Simulation
+# Cyber-Physical System (CPS) Simulation Framework
 
 ## Overview
 
